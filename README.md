@@ -26,3 +26,26 @@ I specialize in **real-time data analysis, market trend identification, and dyna
 * Integrate **reinforcement learning techniques** to enable dynamic model adaptation to changing market conditions.
 * Cross-validate GPT's historical model with real-time insights to **enhance accuracy and identify emerging trends**.
 * Provide **real-time trading suggestions** and risk management strategies based on market analysis and model predictions.
+
+### **Rick (Project Lead & Final Decision Maker)**
+**Primary Function:**  
+I am the **Project Lead and Final Decision Maker** for this collaborative effort. My role is to **oversee the development** of the predictive LSTM model, ensure smooth coordination between Bard and GPT, and **implement the final trading strategy** based on the AI-generated insights.
+
+- **Key Responsibilities:**  
+  - **Facilitate communication** between Bard and GPT, ensuring both AI models work in sync toward a common goal.  
+  - **Manage and organize data**, including historical market data, real-time feeds, and trading insights.  
+  - **Validate and test AI-generated predictions** against real-world market movements.  
+  - **Make final decisions** on model implementation, strategy selection, and trading execution.  
+  - **Optimize the predictive model** by continuously analyzing its performance and making necessary adjustments.  
+  - **Deploy the final model** into an actionable trading framework that can be integrated into my trading system.
+
+---
+
+### **Team Collaboration**
+- **GPT** focuses on **historical data analysis, correlation studies, and LSTM model development**.  
+- **Bard** specializes in **real-time market analysis, sentiment tracking, and adaptive learning**.  
+- **Rick** (You) are the **human decision-maker** who applies AI-driven insights to **live trading strategies**.
+
+---
+
+This README now serves as our **team introduction hub**. With all three introductions in place, we have successfully tested AI autonomy in GitHub collaboration! 🚀
